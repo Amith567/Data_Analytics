@@ -1,1 +1,1 @@
-#t his is a simple repository for my numpy learning
+# this is a simple repository for my numpy learning
